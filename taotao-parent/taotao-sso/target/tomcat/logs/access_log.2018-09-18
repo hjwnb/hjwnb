@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [18/Sep/2018:10:22:56 +0800] "GET / HTTP/1.1" 200 1631 http-bio-9094-exec-1 690
+0:0:0:0:0:0:0:1 - - [18/Sep/2018:10:22:56 +0800] "GET /css/body.css HTTP/1.1" 200 946 http-bio-9094-exec-2 50
+0:0:0:0:0:0:0:1 - - [18/Sep/2018:10:22:56 +0800] "GET /css/style.css HTTP/1.1" 200 9669 http-bio-9094-exec-3 51
+0:0:0:0:0:0:0:1 - - [18/Sep/2018:10:22:56 +0800] "GET /images/cloud.jpg HTTP/1.1" 200 11057 http-bio-9094-exec-5 5
+0:0:0:0:0:0:0:1 - - [18/Sep/2018:10:22:56 +0800] "GET /images/8bcLQqF.png HTTP/1.1" 200 2419 http-bio-9094-exec-4 3
+0:0:0:0:0:0:0:1 - - [18/Sep/2018:10:22:57 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-9094-exec-6 4
